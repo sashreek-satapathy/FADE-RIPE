@@ -8,14 +8,6 @@ Reference implementation used for the simulations reported in:
 
 **Author:** Sashreek Satapathy, Independent Researcher, Vadodara, Gujarat, India
 
-Note: the paper's abstract expands the acronym as "**F**idelity **A**ware,
-**D**istortion-aware, **E**nvironment-conscious Robust Iterative Pulse
-Engineering," while Sec. I.C of the same paper expands it as
-"**F**ourier-b**A**sed, **D**istortion-aware, **E**nvironment-conscious
-Robust Iterative Pulse Engineering." These two expansions disagree on
-what the "F" and "A" stand for -- worth reconciling to one consistent
-expansion before final submission.
-
 ## What this is
 
 `fade_realistic.py` implements **FADE-RIPE**, a gradient-based quantum
