@@ -1,0 +1,11 @@
+# Core numerical stack (required for --mode single / selftest / analyze)
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pandas>=2.0
+
+# Optional: only required for `--mode compare-qtrl` (GRAPE/CRAB baseline
+# comparison against qutip_qtrl). The script will print a warning and
+# skip this comparison if these are not installed.
+qutip>=4.7
+qutip-qtrl>=0.1

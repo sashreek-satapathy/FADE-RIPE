@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and cite the accompanying paper."
+type: software
+title: "FADE-RIPE: A Robust Quantum Optimal Control Algorithm for Superconducting Transmons with Realistic Hardware Constraints (reference implementation)"
+version: 3.0.0
+date-released: "2026-09-06" 
+authors:
+  - family-names: Satapathy
+    given-names: Sashreek
+    affiliation: "Independent Researcher, Vadodara, India"
+    orcid: "https://orcid.org/0009-0000-1276-7952" 
+license: MIT
+repository-code: "TODO: add Zenodo/GitHub URL once assigned"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22487309
+    description: "Zenodo DOI for this software version"
+preferred-citation:
+  type: article
+  title: "FADE-RIPE: A Robust Quantum Optimal Control Algorithm for Superconducting Transmons with Realistic Hardware Constraints"
+  authors:
+    - family-names: Satapathy
+      given-names: Sashreek
+  year: 2026
+  journal: "TODO: journal/preprint venue (e.g. arXiv, Phys. Rev. A) once submitted/posted"
+  doi: "TODO: paper DOI or arXiv ID once available"
