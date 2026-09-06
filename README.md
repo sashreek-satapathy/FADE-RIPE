@@ -157,9 +157,7 @@ instance.
 
 ## License
 
-MIT License, see `LICENSE`. TODO: if you would prefer the code released
-under a different license to match your paper's data-availability
-statement, update `LICENSE`, `CITATION.cff`, and `.zenodo.json` accordingly.
+MIT License
 
 ## Acknowledgements
 
