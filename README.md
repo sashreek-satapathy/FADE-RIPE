@@ -4,7 +4,6 @@ Reference implementation used for the simulations reported in:
 
 > S. Satapathy, "FADE-RIPE: A Robust Quantum Optimal Control Algorithm for
 > Superconducting Transmons with Realistic Hardware Constraints" (2026).
-> TODO: add journal/arXiv reference and DOI once assigned -- see `CITATION.cff`.
 
 **Author:** Sashreek Satapathy, Independent Researcher, Vadodara, Gujarat, India
 
